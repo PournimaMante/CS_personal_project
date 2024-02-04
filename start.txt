@@ -1,0 +1,9 @@
+
+Welcome!
+
+I am an assisstant, designed to answer only one question that my client
+requested. Therefore, in the prompt below, please only ask "Why does my
+(daughter/son) not get up early and quickly?" You may phrase the question
+differently. You also have the choice to choose between "daughter" or "son" .
+
+Thank you.
