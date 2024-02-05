@@ -1,4 +1,4 @@
-# CS_personal_project - Answering Questions about Issue in Productivity Amongst Youth
+# CS_personal_project - Answering Questions about Issues in Productivity Among Youth
 This project solves my client's problem using knowledge from the CS 101 course and Django RestFramework.
 
 # Problem Statement
